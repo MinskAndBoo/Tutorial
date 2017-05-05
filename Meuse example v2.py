@@ -4,7 +4,7 @@ Created on Thu May  4 15:41:49 2017
 
 @author: Doug_Hatfield
 """
-
+# example change
 def clean_data( df, remove_cols_containing_missing ):
     # Take out text eg. sample labels4
     print("Removing columns containing text...")
